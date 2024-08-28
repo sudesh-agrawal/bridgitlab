@@ -1,0 +1,9 @@
+# compiled output
+dist
+node_modules
+.DS_Store
+.env
+backend/node_modules
+backend/dist
+databse/dist
+database/node_modules
